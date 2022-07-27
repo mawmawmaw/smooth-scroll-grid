@@ -291,6 +291,7 @@ ul.menu li a.btn:hover{
         display: grid;
         grid-template-columns: 1fr;
         background-size: contain;
+        background-attachment: fixed;
     }
     .full-screen {
         height: auto;
